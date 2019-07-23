@@ -1,5 +1,5 @@
 # housing-prices-ames-iowa
-predicting housing prices using ames, iowa housing specs dataset
+Predicting housing prices using Ames, Iowa housing specs dataset
 
 Group project with two other students for QBUS2820: Predictive Analytics at the University of Sydney in Sydney, Australia with Dr. Marcel Scharth
 

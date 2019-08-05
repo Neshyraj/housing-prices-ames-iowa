@@ -4,6 +4,8 @@ Some parts of Python code referenced/adapted from class notes.
 
 report - report detailing methodology, findings and conclusions, excluding appendix
 
+test/train - testing and training data
+
 Project finished September 22, 2017
 
 

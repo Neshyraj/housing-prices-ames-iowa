@@ -1,13 +1,8 @@
 # housing-prices-ames-iowa
-Predicting housing prices using Ames, Iowa housing specs dataset
+Group project with two other students for QBUS2820: Predictive Analytics at the University of Sydney in Sydney, Australia with Dr. Marcel Scharth. Uses Ames, Iowa: Alternative to the Boston Housing dataset. Objective to use various house attributes to predict house prices. 
+Some parts of Python code referenced/adapted from class notes.
 
-Group project with two other students for QBUS2820: Predictive Analytics at the University of Sydney in Sydney, Australia with Dr. Marcel Scharth
-
-Some parts of Python code referenced and taken directly from class notes
-
-Uses Ames, Iowa: Alternative to the Boston Housing dataset. Train and test data attached
-
-Written report summarizing methodology and conclusions attached
+report - report detailing methodology, findings and conclusions, excluding appendix
 
 Project finished September 22, 2017
 
